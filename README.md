@@ -28,9 +28,9 @@ Cada exercício foi desenvolvido em um arquivo `.c` separado, conforme solicitad
 
 ```text
 📁 repositorio/
-├── MediaVetor10.c
-├── InverterOrdem.c
 ├── ImparOuPar.c
+├── InverterOrdem.c
+├── MediaVetor10.c
 └── README.md
 ```
 
