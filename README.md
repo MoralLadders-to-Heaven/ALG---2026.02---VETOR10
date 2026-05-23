@@ -91,7 +91,7 @@ Criação de um programa que:
 
 ### Pré-requisitos
 
-- Ter o DEV-C++ instalado
+- Ter o CLion instalado (ou qualquer IDE do tipo)
 - Possuir um compilador C configurado corretamente
 
 ### Execução
@@ -102,7 +102,7 @@ Criação de um programa que:
 git clone https://github.com/MoralLadders-to-Heaven/ALG---2026.02---VETOR10.git
 ```
 
-2. Abra o arquivo desejado no DEV-C++
+2. Abra o arquivo desejado no CLion
 
 3. Compile e execute o programa
 
